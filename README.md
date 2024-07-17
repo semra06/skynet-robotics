@@ -1,1 +1,1 @@
-Bu README.md dosyasına yazılan ilk satırdır.
+Bu README.md Stash uygulandı.
