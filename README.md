@@ -1,1 +1,1 @@
-Bu README.md Stash uygulandı.
+Bu README.md Stash2 uygulandı.
